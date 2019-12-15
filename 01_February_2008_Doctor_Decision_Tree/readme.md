@@ -1,3 +1,4 @@
+```
 With flu season upon us, each of us has important decisions to make if and when
 we fall ill.  In the interest of discussing decision trees, let’s assume that
 you’ve picked up an illness but you’re not sure if it is just a cold virus, a
@@ -26,3 +27,4 @@ work at a cost of $1200.  If you correctly treat the bacterial illness you will
 only miss 2 days of work at a cost of $200.
 
 Question: Should you see the doctor?
+```

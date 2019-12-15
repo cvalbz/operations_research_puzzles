@@ -1,3 +1,4 @@
+```
 After faithfully serving the O.R. profession for 50 years, you decide to retire
 and open a restaurant. Among the hundreds of details with opening a restaurant,
 you need to hire and schedule employees. Based on the foot traffic of other
@@ -23,3 +24,4 @@ optimal this is.
 
 Questions: How much money would you save each week from your current schedule
 if you optimized your workforce?
+```

@@ -1,3 +1,4 @@
+```
 Below is a three-dimensional map of the universe containing eight galaxies that
 you, as the traveling spaceman, wish to visit. Each galaxy's position in the
 universe is indicated by the accompanying table.
@@ -17,4 +18,4 @@ Questions:
 galaxy to minimize the traveled distance? You must visit each galaxy and you
 cannot visit any galaxy more than once.
 2. What is the total distance traveled?
-
+```

@@ -1,3 +1,4 @@
+```
 After years of being captive in Markov’s prison you have decided it is time to
 escape.
 
@@ -33,3 +34,4 @@ Questions:
 1.) Entering at room #1 and exiting the prison at room #16, what route will
 give you the best chance of escape?
 2.) What is the probability that you will be caught?
+```
